@@ -1,0 +1,61 @@
+.all_row{
+    border: 1px solid black;
+}
+
+.one_1{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+
+.one_2{
+    padding: 50px 0;
+    border: 1px solid rgb(82, 11, 11);
+}
+
+.one_3{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+.one_4{
+    padding: 50px 0;
+    border: 1px solid rgb(255, 0, 140);
+}
+/* ================================= */
+.two_1{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+.two_2{
+    padding: 50px 0;
+    border: 1px solid rgb(82, 35, 11);
+}
+.two_3{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+/* =============================== */
+.three_1{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+.three_2{
+    padding: 50px 0;
+    border: 1px solid rgb(82, 11, 11);
+}
+.three_3{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+.three_4{
+    padding: 50px 0;
+    border: 1px solid rgb(255, 0, 140);
+}
+.three_5{
+    padding: 50px 0;
+    border: 1px solid red;
+}
+/* =========================== */
+.four_1{
+    padding: 50px 0;
+    border: 1px solid red;
+}
